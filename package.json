@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/blue-telecomm",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a blue-telecomm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/blue-telecomm.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://sitiosweb.mx/blue-telecomm/"
+    },
+    "homepage": "https://sitiosweb.mx/blue-telecomm/"
+}
